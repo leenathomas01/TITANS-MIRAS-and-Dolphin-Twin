@@ -1,6 +1,6 @@
 # TITANS, MIRAS and Dolphin Twin: Thought Experiments on Surprise-Gated Memory
 
-> **Status:** Personal thought experiment • Not production code • Intentionally incomplete
+> **Status:** Personal thought experiment • Not production code • Intentionally incomplete. 
 
 ## What This Is
 
@@ -97,6 +97,8 @@ The simulation runs through **3 phases**:
 - `Surprise` metric shooting up at step 20
 - `Action=UPDATE` when surprised vs `Action=SKIP` when bored
 - `Merge=accepted` or `Merge=REJECT` based on stability checks
+
+_**Note:**_ These equations are illustrative abstractions; real systems require additional safeguards, monitoring, and human oversight not represented here.
 
 ---
 
