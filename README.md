@@ -145,3 +145,17 @@ If that excites you, welcome to the thought lab. ☕🐬
 ---
 
 _Note: This repository contains experimental thought processes, toy PyTorch implementations, and research notes. It is not a production-ready framework._
+
+---
+
+## Related Work
+
+This repository explores surprise-gated memory architectures inspired by biological cognition.
+
+**For a complete catalog of related research:**  
+📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat) — Autonomic nervous system for AI
+- [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability) — Recursive instability
+---
