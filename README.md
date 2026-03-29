@@ -1,3 +1,6 @@
+**Author note (29March2026):** Continuation of this thought experiment available here - [Adaptive Cognition](https://github.com/leenathomas01/adaptive-cognition) - A governance framework for intelligent systems that manage thinking, memory, and change.
+
+
 # TITANS, MIRAS and Dolphin Twin: Thought Experiments on Surprise-Gated Memory
 
 > **Status:** Personal thought experiment • Not production code • Intentionally incomplete. 
